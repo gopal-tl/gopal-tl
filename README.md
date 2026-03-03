@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · Computer Vision · Remote Sensing · RAG Systems**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-tomar-002/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-tomar-002455288/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gopal-tl)
 [![Gmail](https://img.shields.io/badge/-gopaltomar2380@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gopaltomar2380@gmail.com)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16636342-blue?style=flat)](https://doi.org/10.5281/zenodo.16636342)
