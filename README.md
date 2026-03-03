@@ -125,7 +125,6 @@ AI/ML Engineer with hands-on experience building production-grade systems in rem
 
 ```
 🦷  AI model optimization & deployment @ Toothlens Inc.
-🛡️  NLP-based RAG pipelines for defense @ CABS DRDO
 📷  CV annotation pipelines (CVAT)
 ⚙️  Production ML workflows & scalable AI architectures
 ```
@@ -134,7 +133,7 @@ AI/ML Engineer with hands-on experience building production-grade systems in rem
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopal-tl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gopal-tl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-tl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
