@@ -133,12 +133,8 @@ AI/ML Engineer with hands-on experience building production-grade systems in rem
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gopal-tl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api?username=gopal-tl&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-tl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gopal-tl&color=58a6ff&style=flat&label=Profile+Views)
-
-*"Building AI that doesn't just work in notebooks — but works in the real world."*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-tl&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
